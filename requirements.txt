@@ -1,0 +1,6 @@
+应用程序：
+Erlang OTP 23.2.1
+RabbitMQ Server 3.8.9
+
+Python包：
+pika 1.1.0
